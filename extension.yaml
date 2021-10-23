@@ -1,0 +1,10 @@
+﻿Id: OverwolfClips_4c047b6f-6946-4a90-82c5-2e914749e76d
+Name: OverwolfClips
+Author: Meiloorun
+Version: 1.0
+Module: OverwolfClips.dll
+Type: GenericPlugin
+Icon: icon.png
+Links:
+    - Name: Github
+    Url: https://github.com/Meiloorun/playnite-overwolf-clips
