@@ -8,6 +8,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Controls;
+using com.overwolf.procmgr;
+using static com.overwolf.procmgr.PInvokes;
 
 namespace OverwolfClips
 {
